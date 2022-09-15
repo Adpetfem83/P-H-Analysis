@@ -15,10 +15,10 @@ The purpose of this project is to determine the number of retiring employees by 
 - The retiring_titles table shows that 64% (57,668/90,398 = 64%) of the employees of retirement age have senior titles.
 <img width="523" alt="Screen Shot 2020-09-05 at 12 06 58 PM" src="https://user-images.githubusercontent.com/67278193/92309182-4bc89180-ef71-11ea-83f5-f35a59b280d8.png">
 
-- The final part of our project shows mentorship eligibility, if you look at the head of the new csv - you can see that most of these employees have senior titles.
+- The final part of the project shows mentorship eligibility, if we take a look at the head of the new csv file - We can see that most of these employees have senior titles.
 
 <img width="636" alt="Screen Shot 2020-09-05 at 12 12 13 PM" src="https://user-images.githubusercontent.com/67278193/92309185-4e2aeb80-ef71-11ea-992e-759ce1b3971c.png">
 
 # Conclusion
 
-Seeing the 63 % of the workforce is either retirment or mentorship eligible there will most likely be many positions to fill over the next 5-10 years. There may not exactly be enough people in the workforce to take care of the tasks or even come close to the amount of experience to fill these roles so quickly but what companies can do is try to best learn about what these employees did to be so successful/ having such long lasting careers to continue the tradition for future employees. Most likely the future generation is more computer savy/ efficent due to technologies and can catch on quickly helping companies continue to trend in the right direction by keeping revenues up.
+Knowing that 63 % of the workforce is either eligible for retirement or mentorship. Therefore, there is every likelihood that many vacant positions would be opened, and need to be filled by the new employeesthe in the next 5-10 years. If this is the case, there may not be enough people in the workforce to take care of the tasks or even come close to the amount of experience to fill these roles so quickly, however, what I think this company can do is to try and learn what these employees did to be so successful and having such long lasting careers in order to continue the tradition for future employees. I think, most likely, the future employees would be more computer savvy and efficent due to technologies and can catch on quickly helping this company continue to trend in the right direction by keeping up therevenues.
